@@ -54,6 +54,10 @@ nav:
     - Usuarios: others/usuarios.md
     - VIPs: others/vips.md
     - Staff: others/staff.md
+  - TTT2:
+    - Intro: ttt2/intro.md
+    - Reglas: ttt2/reglas.md
+    - Roles: ttt2/roles.md
 
 markdown_extensions:
   - admonition
