@@ -24,18 +24,18 @@
 	- Tiene una tienda falsa que le permite anunciar compras de objetos a los traidores.
 	- Viene equipado con un cuchillo, un reloj de invisibilidad y un disfraz de prop.
 
-##  BANDO TRAIDOR  ![T](../assets/ttt_imgs/tabla_traidor.png)
+##  BANDO TRAIDOR  ![TB](../assets/ttt_imgs/tabla_traidor.png)
 
-### ![T](../assets/ttt_imgs/tabla_traidor.png) **Traidor**
+### ![T](../assets/ttt_imgs/traidor.png) **Traidor**
 
     - El traidor de siempre, tiene una tienda para comprar objetos y debe colaborar con sus compañeros para ganar.
 
-### ![S](../assets/ttt_imgs/tabla_traidor.png) **Sicario**
+### ![S](../assets/ttt_imgs/sicario.png) **Sicario**
 
     - Un traidor comun, pero con un objetivo a matar en especifico.
     - Solo puede conseguir creditos matando a su objetivo
 		
-### ![S](../assets/ttt_imgs/tabla_traidor.png) **Espiritista**
+### ![S](../assets/ttt_imgs/espiritista.png) **Espiritista**
 
     - Este traidor viene equipado con un desfribilador especial.
     - Los jugadores que revivan a manos del espiritista seran transformados en traidores.
