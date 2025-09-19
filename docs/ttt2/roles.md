@@ -53,7 +53,10 @@
 
     - El asesino serial es el rol mas peligroso de la partida, tiene un 20% de chances de aparecer.
 	- Trabaja solo, pero posee una tienda con objetos unicos y puede ver la posicion de jugadores cercanos a el.
-	- Viene equipado con un cuchillo que mata de 3 golpes, su ataque secundario le permite lanzar una granada de empuje que se recarga cada 15 segundos.
+	- Viene equipado con un cuchillo que mata de 3 golpes, su ataque secundario le permite
+	lanzar una granada de empuje que se recarga cada 15 segundos.
 	- Recupera vida pasivamente.
-	- Tiene un medidor de "Sed de sangre" que baja constantemente y se recarga con cada kill, si este baja por completo su rol revelado a todos los jugadores.
-	- Si el asesino serial es revelado, su regeneracion se detiene, pero se curara 30hp por cada kill y gana una mejora de velocidad permanente.
+	- Tiene un medidor de "Sed de sangre" que baja constantemente y se recarga con cada kill,
+	si este baja por completo su rol revelado a todos los jugadores.
+	- Si el asesino serial es revelado, su regeneracion se detiene, pero se curara 30hp por cada kill y
+	gana una mejora de velocidad permanente.
