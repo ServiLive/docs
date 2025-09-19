@@ -44,16 +44,16 @@ theme:
         name: Cambiar a las preferencias del sistema
 
 nav:
-  - Inicio: index.md
-  - Reglas:
-    - Introducción: reglas/intro.md
-    - Reglas de conducta: reglas/conducta.md
-    - Reglas de juego: reglas/juegos.md
-    - Reglas de modos de juego: reglas/gamemodes.md
-  - Comandos:
-    - Usuarios: others/usuarios.md
-    - VIPs: others/vips.md
-    - Staff: others/staff.md
+  #- Inicio: index.md
+  #- Reglas:
+    #- Introducción: reglas/intro.md
+    #- Reglas de conducta: reglas/conducta.md
+   # - Reglas de juego: reglas/juegos.md
+   # - Reglas de modos de juego: reglas/gamemodes.md
+  #- Comandos:
+   # - Usuarios: others/usuarios.md
+   # - VIPs: others/vips.md
+   # - Staff: others/staff.md
   - TTT2:
     - Intro: ttt2/intro.md
     - Reglas: ttt2/reglas.md
