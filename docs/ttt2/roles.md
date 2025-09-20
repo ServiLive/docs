@@ -34,7 +34,7 @@
 
     - Un traidor comun, pero con un objetivo a matar en especifico.
     - Solo puede conseguir creditos matando a su objetivo
-		
+
 ### ![S](../assets/ttt_imgs/espiritista.png) **Espiritista**
 
     - Este traidor viene equipado con un desfribilador especial.
@@ -46,17 +46,18 @@
 
     - El anciano es un rol neutral, no pertenece a ningun bando ni esta obligado a matar o colaborar con nadie.
 	- Ayuda a quien mas te beneficie y prioriza tu supervivencia.
-	- El anciano tiene 80 de vida total.
+	- El anciano tiene 80% de vida total.
 	- I'm old!
 
 ### ![A](../assets/ttt_imgs/serialkiller.png) **Asesino Serial**
 
-    - El asesino serial es el rol mas peligroso de la partida, tiene un 20% de chances de aparecer.
+    - El asesino serial es el rol mas peligroso de la partida, tiene un 20% de chances de aparecer
+	y su objetivo es matar a todos los jugadores sin importar el rol que sean.
 	- Trabaja solo, pero posee una tienda con objetos unicos y puede ver la posicion de jugadores cercanos a el.
 	- Viene equipado con un cuchillo que mata de 3 golpes, su ataque secundario le permite
 	lanzar una granada de empuje que se recarga cada 15 segundos.
 	- Recupera vida pasivamente.
 	- Tiene un medidor de "Sed de sangre" que baja constantemente y se recarga con cada kill,
-	si este baja por completo su rol revelado a todos los jugadores.
+	si este baja por completo su rol es revelado a todos los jugadores.
 	- Si el asesino serial es revelado, su regeneracion se detiene, pero se curara 30hp por cada kill y
 	gana una mejora de velocidad permanente.
