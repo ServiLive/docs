@@ -9,3 +9,7 @@ Desplazate por las categorías de la izquierda para leer las Reglas o informacio
 
 - **[Roles](roles.md).**
 
+- **[Comandos](comandos.md).**
+
+Quieres reportar un RDM o hacer sugerencias? Te interesa sumarte a la comunidad?
+- Unete al **[Discord](https://discord.gg/UnZgssSFSK)**
