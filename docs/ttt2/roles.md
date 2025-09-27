@@ -2,20 +2,10 @@
 
 ##  BANDO INOCENTE  ![INO](../assets/ttt_imgs/tabla_inocente.png)
 
-### ![DT](../assets/ttt_imgs/detective.png) **Detective y Protegido**
-
-    - Ahora el detective tendra un inocente que proteger durante toda la ronda.
-    - Gana junto a tu protegido para recibir puntos adicionales.
-
 ### ![F](../assets/ttt_imgs/fenix.png) **Fenix**
 
     - Este inocente es inmune al fuego.
     - Puede revivir siempre y cuando no haya muerto por disparo a la cabeza y su cuerpo siga existiendo.
-
-### ![ST](../assets/ttt_imgs/superviviente.png) **Superviviente**
-
-    - Un inocente con acceso a una tienda de objetos especiales.
-    - Estos objetos estan centrados en mejoras de movilidad.
 
 ### ![ES](../assets/ttt_imgs/espia.png) **Espia**
 
@@ -39,15 +29,18 @@
 
     - Este traidor viene equipado con un desfribilador especial.
     - Los jugadores que revivan a manos del espiritista seran transformados en traidores.
+	
+### ![NG](../assets/ttt_imgs/necro.png) **Nigromante**
+
+    - Este traidor viene equipado con un desfribilador especial.
+    - Los jugadores que revivan a manos del nigromante seran convertidos en zombies que lucharan para el.
 
 ##  BANDO NEUTRAL  ![N](../assets/ttt_imgs/tabla_neutral.png)
 
-### ![A](../assets/ttt_imgs/anciano.png) **Anciano**
+### ![A](../assets/ttt_imgs/infec.png) **Infectado**
 
-    - El anciano es un rol neutral, no pertenece a ningun bando ni esta obligado a matar o colaborar con nadie.
-	- Ayuda a quien mas te beneficie y prioriza tu supervivencia.
-	- El anciano tiene 80% de vida total.
-	- I'm old!
+    - El infectado es un rol especial que convertira toda la partida en un "todos contra uno"
+	- Su objetivo es matar e infectar a todos los terroristas, ganando siendo el unico bando en pie.
 
 ### ![A](../assets/ttt_imgs/serialkiller.png) **Asesino Serial**
 
