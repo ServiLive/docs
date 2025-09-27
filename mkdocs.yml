@@ -58,6 +58,7 @@ nav:
     - Intro: ttt2/intro.md
     - Reglas: ttt2/reglas.md
     - Roles: ttt2/roles.md
+    - Comandos: ttt2/comandos.md
 
 markdown_extensions:
   - admonition
