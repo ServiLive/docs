@@ -12,11 +12,11 @@
 7. No se permite formar equipo con bandos contrarios o neutrales.
 8. No puedes matar sin una razon valida.
 	- No puedes matar por sospecha.
-	- No puedes meterte en tiroteo ajeno, a menos que tengas una razon valida para hacerlo. (presenciar un acto de T o que sus roles ya hayan sido revelados)
+	- No puedes meterte en tiroteo ajeno, a menos que tengas una razon valida para hacerlo. (presenciar un acto de T, que sus roles ya hayan sido revelados o que la victima sea un proven confirmado)
     - Solo puedes matar por lanzar granadas si estas te provocan daño a ti o al detective.
     - Solo puedes matar por lanzar discombulators si esta fue lanzada en una zona que puede provocar daño o muerte por caida.
-	- Solo puedes matar por acusaciones hechas por un detective.
-9. Un jugador solo es considerado proven si fue confirmado por un detective.
+	- Solo puedes matar por acusaciones hechas por un detective o por un proven confirmado en el tab.
+9. Un jugador solo es considerado proven si fue confirmado por un detective o fue revivido y su rol aparece en el tab.
 10. En caso de poseer un arma especial (tienda de cualquier rol) debes avisar por chat que la tienes. En caso de no avisar sobre el arma, el resto tiene libertad para matarte.
 
 ## Reglas Detective:

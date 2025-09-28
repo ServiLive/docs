@@ -29,11 +29,14 @@
 
     - Este traidor viene equipado con un desfribilador especial.
     - Los jugadores que revivan a manos del espiritista seran transformados en traidores.
+	- Tambien puede transformar inocentes vivos en traidores usando muestras de sangre.
+	- No tiene tienda.
 	
 ### ![NG](../assets/ttt_imgs/necro.png) **Nigromante**
 
     - Este traidor viene equipado con un desfribilador especial.
     - Los jugadores que revivan a manos del nigromante seran convertidos en zombies que lucharan para el.
+	- No tiene tienda.
 
 ##  BANDO NEUTRAL  ![N](../assets/ttt_imgs/tabla_neutral.png)
 
