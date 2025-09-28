@@ -72,8 +72,8 @@
 
 ### ![ZZ](../assets/ttt_imgs/zombie.png) **Zombie**
 
-	- Un zombie revivido por el Nigromante.
-	- No tiene tienda, se mueve lento, pero puede usar armas.
+	- Un zombie traidor revivido por el Nigromante.
+	- No tiene tienda ni puede usar armas.
 
 ### ![IS](../assets/ttt_imgs/infec.png) **Infectados**
 
