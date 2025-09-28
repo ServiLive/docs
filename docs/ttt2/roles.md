@@ -57,3 +57,26 @@
 	si este baja por completo su rol es revelado a todos los jugadores.
 	- Si el asesino serial es revelado, su regeneracion se detiene, pero se curara 30hp por cada kill y
 	gana una mejora de velocidad permanente.
+	
+##  ROLES ESPECIALES  ![N](../assets/ttt_imgs/special.png)
+
+### ![SR](../assets/ttt_imgs/surv.png) **Superviviente**
+
+	- El Superviviente es un rol que ocupan los no-infectados, tiene acceso a la tienda de traidor
+	y su objetivo es cooperar con el resto de supervivientes para matar a los infectados.
+
+### ![ES](../assets/ttt_imgs/thrall.png) **Esclavo**
+
+	- Un traidor revivido por el Espiritista.
+	- No tiene tienda.
+
+### ![ZZ](../assets/ttt_imgs/zombie.png) **Zombie**
+
+	- Un zombie revivido por el Nigromante.
+	- No tiene tienda, se mueve lento, pero puede usar armas.
+
+### ![IS](../assets/ttt_imgs/infec.png) **Infectados**
+
+	- El Infectado Alfa es el primero y mas poderoso, es lento pero tiene muchisima vida.
+	- Los nuevos Infectados seran mas rapidos y saltaran mucho mas alto, pero tendran menos vida.
+	- Ninguno de estos tiene acceso a la tienda.
