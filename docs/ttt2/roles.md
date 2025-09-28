@@ -5,14 +5,15 @@
 ### ![F](../assets/ttt_imgs/fenix.png) **Fenix**
 
     - Este inocente es inmune al fuego.
-    - Puede revivir siempre y cuando no haya muerto por disparo a la cabeza y su cuerpo siga existiendo.
+    - Si muere, pasados 5 segundos, este revivira.
+	- Solo puede revivir una vez por ronda.
 
 ### ![ES](../assets/ttt_imgs/espia.png) **Espia**
 
     - Un detective infiltrado entre los traidores.
     - Los traidores lo ven como un compañero mas, pero este no sabe quienes son.
 	- Tiene una tienda falsa que le permite anunciar compras de objetos a los traidores.
-	- Viene equipado con un cuchillo, un reloj de invisibilidad y un disfraz de prop.
+	- Viene equipado con un cuchillo.
 
 ##  BANDO TRAIDOR  ![TB](../assets/ttt_imgs/tabla_traidor.png)
 
@@ -23,7 +24,7 @@
 ### ![S](../assets/ttt_imgs/sicario.png) **Sicario**
 
     - Un traidor comun, pero con un objetivo a matar en especifico.
-    - Solo puede conseguir creditos matando a su objetivo
+    - Solo puede conseguir creditos matando a su objetivo.
 
 ### ![S](../assets/ttt_imgs/espiritista.png) **Espiritista**
 
@@ -50,8 +51,6 @@
     - El asesino serial es el rol mas peligroso de la partida, tiene un 20% de chances de aparecer
 	y su objetivo es matar a todos los jugadores sin importar el rol que sean.
 	- Trabaja solo, pero posee una tienda con objetos unicos y puede ver la posicion de jugadores cercanos a el.
-	- Viene equipado con un cuchillo que mata de 3 golpes, su ataque secundario le permite
-	lanzar una granada de empuje que se recarga cada 15 segundos.
 	- Recupera vida pasivamente.
 	- Tiene un medidor de "Sed de sangre" que baja constantemente y se recarga con cada kill,
 	si este baja por completo su rol es revelado a todos los jugadores.
